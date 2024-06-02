@@ -1,5 +1,6 @@
 # segmenting-potential-users
 Segmenting Potential Users Based on Machine Learning
+
 Potential Customer Scoring is a method used by sales and marketing departments to assign value based on the behavior of potential customers or leads related to their interest in a product or service, thereby determining their value.
 
 What are the benefits of Potential Customer Scoring?
